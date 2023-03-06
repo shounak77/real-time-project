@@ -1,2 +1,2 @@
 # real-time-project
-Code used for Real Time Project in HIS FRA-UAS
+This repo contians code used for Real Time Project in HIS FRA-UAS
