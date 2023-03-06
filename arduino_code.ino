@@ -4,7 +4,7 @@
 
 #include <string.h>
 
-#define YLED 6
+#define YLED 6  // Setting up LEDs
 #define RLED 7
 
 LiquidCrystal_I2C lcd(0x27, 20, 4); // Set the LCD I2C address
@@ -57,7 +57,7 @@ void loop() {
   }
 
   // calculate the average:
-  sensor_average = total / numReadings;
+  sensor_average = total / numReadings;  // Here we are using concept of Moving Window Average for obtaining better output 
   // send it to the computer as ASCII digits
 
   // STABLE REading = 214
