@@ -1,5 +1,5 @@
 # Real-time-project
-This repo contians code used for Real Time Project in HIS FRA-UAS
+This repo contains code used for Real Time Project in HIS FRA-UAS.
 
 
 ## About the project
@@ -9,7 +9,7 @@ This repo contians code used for Real Time Project in HIS FRA-UAS
 - Based on the readings, visual indicators are updated
 
 ## Aim : 
-To understand the the realtimeness of the underlying system
+To understand the the real-timeness of the underlying system.
 
 ## Real Life Use Case : 
 To detect alcohol of Drivers, Doctors etc.
